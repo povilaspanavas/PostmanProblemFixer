@@ -1,1 +1,1 @@
-PostmanProblemFixer\bin\Debug\Postman.exe fix
+PostmanProblemFixer\bin\Debug\PostmanProblemFixer.exe fix
