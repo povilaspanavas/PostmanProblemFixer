@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostmanProblemFixer", "PostmanProblemFixer.csproj", "{3EE9BEE7-5779-4E99-95D9-80B731489E84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostmanProblemFixer", "PostmanProblemFixer\PostmanProblemFixer.csproj", "{3EE9BEE7-5779-4E99-95D9-80B731489E84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
