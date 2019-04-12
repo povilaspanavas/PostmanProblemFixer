@@ -30,6 +30,9 @@ namespace PostmanProblemFixer
                 // -H 'User-Agent: Blablabla' --compressed
                 // 'https://myurl.com/lalal'
 
+                // remove weird quotes coming from Android phones cUrl
+                text = text.Replace("“", "\"").Replace("”", "\"");
+
                 const string hostSeparator = "'";
                 var result = string.Empty;
                 const string uriRegex = "'((https)|(http)|(ftps|ftp)).*'";
